@@ -1,0 +1,33 @@
+{
+  "name": "BinCoin",
+  "timestamp": "2026-10-19T22:00:36.966Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://osaykancuno.github.io/bincoin-app/token-logo-256.png",
+  "keywords": [
+    "bincoin",
+    "robinhood chain"
+  ],
+  "tags": {
+    "testnet": {
+      "name": "Testnet",
+      "description": "Robinhood Chain testnet deployment"
+    }
+  },
+  "tokens": [
+    {
+      "chainId": 46630,
+      "address": "0x784542c2D3d91D9c1c470D44def52e3Da8C18bD1",
+      "name": "BinCoin",
+      "symbol": "BIN",
+      "decimals": 18,
+      "logoURI": "https://osaykancuno.github.io/bincoin-app/token-logo-256.png",
+      "tags": [
+        "testnet"
+      ]
+    }
+  ]
+}

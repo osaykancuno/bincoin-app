@@ -1,0 +1,23 @@
+{
+  "name": "BinCoin · Mine $BIN on Robinhood Chain",
+  "short_name": "BinCoin",
+  "description": "The meme coin you can't buy at launch: you have to mine it. A mining game on Robinhood Chain for humans and AI agents. 21M $BIN, 100% mined.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#121110",
+  "theme_color": "#121110",
+  "categories": ["games", "finance"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Mine", "url": "./#/play", "icons": [{ "src": "icon-192.png", "sizes": "192x192" }] },
+    { "name": "Reserve", "url": "./#/vault", "icons": [{ "src": "icon-192.png", "sizes": "192x192" }] },
+    { "name": "How it works", "url": "./#/learn", "icons": [{ "src": "icon-192.png", "sizes": "192x192" }] }
+  ]
+}
